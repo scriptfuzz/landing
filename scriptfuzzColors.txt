@@ -1,0 +1,4 @@
+/* Scriptfuzz colors */
+Blue-green: #0694a9;
+Dark-blue: #131d40;
+Purple: #865e9c;

@@ -19,7 +19,8 @@
 .jumbotron {
 	padding: 70px 30px 70px 30px;
 	margin: 0px auto;
-	background: #7986CB;
+	background: #0694a9;
+	/*background: #0694a9;*/
 	color: floralwhite;
 }
 
@@ -36,15 +37,16 @@ body{
 }
 
 .navbar-inverse{
-	background: #303F9F;
+	/*background: #303F9F;*/
+	background: #131d40;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
 	color:#fff;
-	background: #1A237E;
-
+	/*background: #1A237E;*/
+	background: #865e9c;
 }
 
 .navbar-inverse .navbar-nav > .open > a,
