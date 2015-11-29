@@ -14,3 +14,6 @@ The following technologies are used to build this page:
 2. Simply clone this repository. 
 3. Run ``bower install``.
 4. Start webserver. 
+
+##Mockups
+![](docs/mockups/header.png)
