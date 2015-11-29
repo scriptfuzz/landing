@@ -6,8 +6,7 @@ This repository contains frontend components for **scriptfuzz.com**'s landing pa
 The following technologies are used to build this page:
  * Bower
  * Bootstrap CSS
- * AngularJS
- * Material Angular
+ * HTML5
  * Nginx (static file serving)
 
 ##Usage
